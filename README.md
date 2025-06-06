@@ -25,7 +25,7 @@ You will **fork** this repo and build your features on top of the provided code.
 * Clone your fork locally to start working
 
 ```bash
-git clone https://github.com/your-username/doctordashboard.git
+git clone https://github.com/shadow-anderson/doctordashboard.git
 cd doctordashboard
 ```
 
